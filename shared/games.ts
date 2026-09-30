@@ -117,92 +117,92 @@ export const defaultGames: PortalGame[] = [
   {
     slug: "action-01", titles: {"ru": "Неоновый Прибой", "en": "Неоновый Прибой", "zh": "Неоновый Прибой"}, category: "action", tags: ["экшен"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["WASD — движение", "Мышь — действие"], "en": ["WASD — движение", "Мышь — действие"], "zh": ["WASD — движение", "Мышь — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.4, plays: 1781000, year: 2026, badge: null,
+    imageUrl: "/covers/catalog/neon-riptide.jpg", gameUrl: null, rating: 4.4, plays: 1781000, year: 2026, badge: null,
   },
   {
     slug: "action-02", titles: {"ru": "Пепельный Свод", "en": "Пепельный Свод", "zh": "Пепельный Свод"}, category: "action", tags: ["экшен"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["WASD — движение", "Мышь — действие"], "en": ["WASD — движение", "Мышь — действие"], "zh": ["WASD — движение", "Мышь — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.5, plays: 1918000, year: 2026, badge: null,
+    imageUrl: "/covers/catalog/ember-vault.jpg", gameUrl: null, rating: 4.5, plays: 1918000, year: 2026, badge: null,
   },
   {
     slug: "action-03", titles: {"ru": "Небесный Крюк", "en": "Небесный Крюк", "zh": "Небесный Крюк"}, category: "action", tags: ["экшен"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["WASD — движение", "Мышь — действие"], "en": ["WASD — движение", "Мышь — действие"], "zh": ["WASD — движение", "Мышь — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.6, plays: 2055000, year: 2026, badge: null,
+    imageUrl: "/covers/catalog/skyhook.jpg", gameUrl: null, rating: 4.6, plays: 2055000, year: 2026, badge: null,
   },
   {
     slug: "action-04", titles: {"ru": "Моховой Клинок", "en": "Моховой Клинок", "zh": "Моховой Клинок"}, category: "action", tags: ["экшен"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["WASD — движение", "Мышь — действие"], "en": ["WASD — движение", "Мышь — действие"], "zh": ["WASD — движение", "Мышь — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.7, plays: 2192000, year: 2026, badge: null,
+    imageUrl: "/covers/catalog/mossblade.jpg", gameUrl: null, rating: 4.7, plays: 2192000, year: 2026, badge: null,
   },
   {
     slug: "action-05", titles: {"ru": "Призматическая Осада", "en": "Призматическая Осада", "zh": "Призматическая Осада"}, category: "action", tags: ["экшен"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["WASD — движение", "Мышь — действие"], "en": ["WASD — движение", "Мышь — действие"], "zh": ["WASD — движение", "Мышь — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.8, plays: 2329000, year: 2026, badge: null,
+    imageUrl: "/covers/catalog/prismatic-siege.jpg", gameUrl: null, rating: 4.8, plays: 2329000, year: 2026, badge: null,
   },
   {
     slug: "action-06", titles: {"ru": "Дрейфующий Фонарь", "en": "Дрейфующий Фонарь", "zh": "Дрейфующий Фонарь"}, category: "action", tags: ["экшен"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["WASD — движение", "Мышь — действие"], "en": ["WASD — движение", "Мышь — действие"], "zh": ["WASD — движение", "Мышь — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.9, plays: 2466000, year: 2026, badge: "new",
+    imageUrl: "/covers/catalog/drifting-lantern.jpg", gameUrl: null, rating: 4.9, plays: 2466000, year: 2026, badge: "new",
   },
   {
     slug: "action-07", titles: {"ru": "Железный Сад", "en": "Железный Сад", "zh": "Железный Сад"}, category: "action", tags: ["экшен"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["WASD — движение", "Мышь — действие"], "en": ["WASD — движение", "Мышь — действие"], "zh": ["WASD — движение", "Мышь — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.1, plays: 2603000, year: 2026, badge: null,
+    imageUrl: "/covers/catalog/iron-garden.jpg", gameUrl: null, rating: 4.1, plays: 2603000, year: 2026, badge: null,
   },
   {
     slug: "action-08", titles: {"ru": "Бегущий Сквозь Завесу", "en": "Бегущий Сквозь Завесу", "zh": "Бегущий Сквозь Завесу"}, category: "action", tags: ["экшен"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["WASD — движение", "Мышь — действие"], "en": ["WASD — движение", "Мышь — действие"], "zh": ["WASD — движение", "Мышь — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.2, plays: 2740000, year: 2026, badge: null,
+    imageUrl: "/covers/catalog/veil-runner.jpg", gameUrl: null, rating: 4.2, plays: 2740000, year: 2026, badge: null,
   },
   {
     slug: "action-09", titles: {"ru": "Приливная Кузня", "en": "Приливная Кузня", "zh": "Приливная Кузня"}, category: "action", tags: ["экшен"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["WASD — движение", "Мышь — действие"], "en": ["WASD — движение", "Мышь — действие"], "zh": ["WASD — движение", "Мышь — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.3, plays: 2877000, year: 2026, badge: null,
+    imageUrl: "/covers/catalog/tideforge.jpg", gameUrl: null, rating: 4.3, plays: 2877000, year: 2026, badge: null,
   },
   {
     slug: "action-10", titles: {"ru": "Солнечная Спираль", "en": "Солнечная Спираль", "zh": "Солнечная Спираль"}, category: "action", tags: ["экшен"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["WASD — движение", "Мышь — действие"], "en": ["WASD — движение", "Мышь — действие"], "zh": ["WASD — движение", "Мышь — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.4, plays: 3014000, year: 2026, badge: null,
+    imageUrl: "/covers/catalog/solar-spiral.jpg", gameUrl: null, rating: 4.4, plays: 3014000, year: 2026, badge: null,
   },
   {
     slug: "action-11", titles: {"ru": "Цветочный Контур", "en": "Цветочный Контур", "zh": "Цветочный Контур"}, category: "action", tags: ["экшен"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["WASD — движение", "Мышь — действие"], "en": ["WASD — движение", "Мышь — действие"], "zh": ["WASD — движение", "Мышь — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.5, plays: 3151000, year: 2026, badge: null,
+    imageUrl: "/covers/catalog/floral-contour.jpg", gameUrl: null, rating: 4.5, plays: 3151000, year: 2026, badge: null,
   },
   {
     slug: "adventure-01", titles: {"ru": "Картограф приливного стекла", "en": "Картограф приливного стекла", "zh": "Картограф приливного стекла"}, category: "adventure", tags: ["приключения"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["Стрелки — движение", "Пробел — действие"], "en": ["Стрелки — движение", "Пробел — действие"], "zh": ["Стрелки — движение", "Пробел — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.6, plays: 3288000, year: 2026, badge: null,
+    imageUrl: "/covers/catalog/tideglass-cartographer.jpg", gameUrl: null, rating: 4.6, plays: 3288000, year: 2026, badge: null,
   },
   {
     slug: "adventure-02", titles: {"ru": "Сад углей", "en": "Сад углей", "zh": "Сад углей"}, category: "adventure", tags: ["приключения"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["Стрелки — движение", "Пробел — действие"], "en": ["Стрелки — движение", "Пробел — действие"], "zh": ["Стрелки — движение", "Пробел — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.7, plays: 3425000, year: 2026, badge: null,
+    imageUrl: "/covers/catalog/ember-garden.jpg", gameUrl: null, rating: 4.7, plays: 3425000, year: 2026, badge: null,
   },
   {
     slug: "adventure-03", titles: {"ru": "Кочевник лунной магистрали", "en": "Кочевник лунной магистрали", "zh": "Кочевник лунной магистрали"}, category: "adventure", tags: ["приключения"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["Стрелки — движение", "Пробел — действие"], "en": ["Стрелки — движение", "Пробел — действие"], "zh": ["Стрелки — движение", "Пробел — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.8, plays: 3562000, year: 2026, badge: null,
+    imageUrl: "/covers/catalog/lunar-nomad.jpg", gameUrl: null, rating: 4.8, plays: 3562000, year: 2026, badge: null,
   },
   {
     slug: "adventure-04", titles: {"ru": "Эхо-фонарь", "en": "Эхо-фонарь", "zh": "Эхо-фонарь"}, category: "adventure", tags: ["приключения"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["Стрелки — движение", "Пробел — действие"], "en": ["Стрелки — движение", "Пробел — действие"], "zh": ["Стрелки — движение", "Пробел — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.9, plays: 3699000, year: 2026, badge: null,
+    imageUrl: "/covers/catalog/echo-lantern.jpg", gameUrl: null, rating: 4.9, plays: 3699000, year: 2026, badge: null,
   },
   {
     slug: "adventure-05", titles: {"ru": "Воздушный змей морозного ветра", "en": "Воздушный змей морозного ветра", "zh": "Воздушный змей морозного ветра"}, category: "adventure", tags: ["приключения"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["Стрелки — движение", "Пробел — действие"], "en": ["Стрелки — движение", "Пробел — действие"], "zh": ["Стрелки — движение", "Пробел — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.1, plays: 3836000, year: 2026, badge: null,
+    imageUrl: "/covers/catalog/frostwind-kite.jpg", gameUrl: null, rating: 4.1, plays: 3836000, year: 2026, badge: null,
   },
   {
     slug: "adventure-06", titles: {"ru": "Пробуждение корней", "en": "Пробуждение корней", "zh": "Пробуждение корней"}, category: "adventure", tags: ["приключения"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["Стрелки — движение", "Пробел — действие"], "en": ["Стрелки — движение", "Пробел — действие"], "zh": ["Стрелки — движение", "Пробел — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.2, plays: 3973000, year: 2026, badge: null,
+    imageUrl: "/covers/catalog/root-awakening.jpg", gameUrl: null, rating: 4.2, plays: 3973000, year: 2026, badge: null,
   },
   {
     slug: "adventure-07", titles: {"ru": "Заводная крачка", "en": "Заводная крачка", "zh": "Заводная крачка"}, category: "adventure", tags: ["приключения"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["Стрелки — движение", "Пробел — действие"], "en": ["Стрелки — движение", "Пробел — действие"], "zh": ["Стрелки — движение", "Пробел — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.3, plays: 4110000, year: 2026, badge: null,
+    imageUrl: "/covers/catalog/clockwork-tern.jpg", gameUrl: null, rating: 4.3, plays: 4110000, year: 2026, badge: null,
   },
   {
     slug: "adventure-08", titles: {"ru": "Призматическое хранилище", "en": "Призматическое хранилище", "zh": "Призматическое хранилище"}, category: "adventure", tags: ["приключения"],
@@ -447,7 +447,7 @@ export const defaultGames: PortalGame[] = [
   {
     slug: "clicker-11", titles: {"ru": "Фермер лунных семян", "en": "Фермер лунных семян", "zh": "Фермер лунных семян"}, category: "clicker", tags: ["кликеры"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["Клик — собирать"], "en": ["Клик — собирать"], "zh": ["Клик — собирать"]},
-    imageUrl: "/manus-storage/game-puzzle_bae12f0f.jpg", gameUrl: null, rating: 4.7, plays: 10823000, year: 2026, badge: null,
+    imageUrl: "/covers/catalog/moonpetal-farm.jpg", gameUrl: null, rating: 4.7, plays: 10823000, year: 2026, badge: null,
   },
   {
     slug: "clicker-12", titles: {"ru": "Каменщик эха", "en": "Каменщик эха", "zh": "Каменщик эха"}, category: "clicker", tags: ["кликеры"],
@@ -477,7 +477,7 @@ export const defaultGames: PortalGame[] = [
   {
     slug: "driving-05", titles: {"ru": "Дюнный След", "en": "Дюнный След", "zh": "Дюнный След"}, category: "driving", tags: ["гонки"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["WASD — управление"], "en": ["WASD — управление"], "zh": ["WASD — управление"]},
-    imageUrl: "/manus-storage/game-racing_26c9d0e9.jpg", gameUrl: null, rating: 4.4, plays: 11645000, year: 2026, badge: null,
+    imageUrl: "/covers/catalog/dune-phantom.jpg", gameUrl: null, rating: 4.4, plays: 11645000, year: 2026, badge: null,
   },
   {
     slug: "driving-06", titles: {"ru": "Грозовое Послание", "en": "Грозовое Послание", "zh": "Грозовое Послание"}, category: "driving", tags: ["гонки"],
